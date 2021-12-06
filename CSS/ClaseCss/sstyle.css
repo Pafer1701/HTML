@@ -1,0 +1,15 @@
+p {
+    color: red ;
+    font-size: 50px;
+}
+/* important hace que predomine eso */
+/* class */
+.texto {
+    color: skyblue;
+}
+
+/* ID */
+#parrafo{
+    color: blueviolet;
+    font-size: 20px;
+}
